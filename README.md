@@ -242,4 +242,4 @@ Code will restart as a devcontainer!
 
 ![image](https://user-images.githubusercontent.com/8278033/212531488-6f38e00f-aa68-4d49-878d-ae1e0ca5a8ff.png)
 
-Woo! Now you're set and you can follow all the last few steps in the [Codespaces](#using-this-repository-as-a-codespace) section, starting after `Alright, so next, let's get the Azure Functions App running by hitting debug.` because it's all the same :O
+Woo! Now you're set and you can follow all the last few steps, starting after `Alright, so next, let's get the Azure Functions App running by hitting debug.`, in the [Codespaces](#using-this-repository-as-a-codespace) section, because it's all the same :O
